@@ -1,0 +1,37 @@
+FPropasTypesUtf8Notation
+not 600 <> :type_scope:'∀'_x_','_x
+not 704 <> :type_scope:'∀'_x_x_','_x
+not 815 <> :type_scope:'∀'_x_x_x_','_x
+not 933 <> :type_scope:'∀'_x_x_x_x_','_x
+not 1058 <> :type_scope:'∀'_x_':'_x_','_x
+not 1169 <> :type_scope:'∀'_x_x_':'_x_','_x
+not 1287 <> :type_scope:'∀'_x_x_x_':'_x_','_x
+R1428:1431 Coq.Init.Specif <> sigT ind
+not 1412 <> :type_scope:'∃'_x_','_x
+R1542:1545 Coq.Init.Specif <> sigT ind
+not 1522 <> :type_scope:'∃'_x_':'_x_','_x
+R1654:1656 Coq.Init.Datatypes <> sum ind
+not 1640 <> :type_scope:x_'∨'_x
+R1735:1738 Coq.Init.Datatypes <> prod ind
+not 1721 <> :type_scope:x_'∧'_x
+not 1803 <> :type_scope:x_'→'_x
+R1897:1897 PropasTypesUtf8Notation <> :type_scope:x_'∧'_x not
+R1905:1911 PropasTypesUtf8Notation <> :type_scope:x_'∧'_x not
+R1919:1919 PropasTypesUtf8Notation <> :type_scope:x_'∧'_x not
+R1899:1903 PropasTypesUtf8Notation <> :type_scope:x_'→'_x not
+R1913:1917 PropasTypesUtf8Notation <> :type_scope:x_'→'_x not
+not 1883 <> :type_scope:x_'↔'_x
+R1987:1995 Coq.Init.Datatypes <> Empty_set ind
+not 1977 <> :type_scope:'⊥'
+R2031:2034 Coq.Init.Datatypes <> unit ind
+not 2021 <> :type_scope:'⊤'
+R2072:2076 PropasTypesUtf8Notation <> :type_scope:x_'→'_x not
+R2077:2079 PropasTypesUtf8Notation <> :type_scope:'⊥' not
+not 2060 <> :type_scope:'¬'_x
+R2133:2135 PropasTypesUtf8Notation <> :type_scope:'¬'_x not
+R2141:2141 PropasTypesUtf8Notation <> :type_scope:'¬'_x not
+R2137:2139 Coq.Init.Logic <> :type_scope:x_'='_x not
+not 2119 <> :type_scope:x_'≠'_x
+not 2182 <> ::'λ'_x_'..'_x_','_x
+syndef 2300:2302 <> ℕ
+R2307:2309 Coq.Init.Datatypes <> nat ind
